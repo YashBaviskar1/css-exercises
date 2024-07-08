@@ -1,0 +1,22 @@
+.text-format {
+    background-color: rgb(234, 148, 160);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.size-format {
+    font-size: 24px;
+}
+
+#blue-div {
+    color: blue;
+    font-size: 36px;
+
+}
+
+
+
+#second-div {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
